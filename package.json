@@ -13,11 +13,13 @@
     "pubsub-js": "^1.9.2",
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
+    "react-redux": "^7.2.2",
     "react-reveal": "^1.2.2",
     "react-router-dom": "^5.2.0",
     "react-scripts": "3.3.0",
     "react-spinners": "^0.10.4",
     "react-transition-group": "^4.4.1",
+    "redux": "^4.0.5",
     "styled-components": "^5.2.1",
     "use-debounce": "^5.2.0"
   },
